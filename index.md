@@ -11,3 +11,9 @@ This is some code to break your work and heat up your PC:
 ```sh
 :() { :|:&; }
 ```
+
+This is a list of stuff we have to do:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
