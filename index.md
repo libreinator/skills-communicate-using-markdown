@@ -2,10 +2,6 @@
 
 This is some text with **markdown** code.
 
-And here's some code, in case you're looking for inspiration:
+And here's an image, in case you're looking for inspiration:
 
-```sh
-:() {
-  :|:&
-}
-```
+![Image of Yaktocat, a random cat I found in the readme](https://octodex.github.com/images/yaktocat.png)
